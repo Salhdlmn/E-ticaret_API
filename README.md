@@ -32,6 +32,6 @@ Veritabanında verileri alıp ekrana yansıtan ve temel sepete ekle işlevine sa
 - Sepetteki ürünleri ekrana basarken fiyat değerlerini topla ve bir değişkene aktar
 - - bu işlemi yaparken elemanın miktarını unutma
 - - ürün sepetten kaldırılınca toplam fiyattan eksilt
-# Görünüm
+    # Görünüm
     ![](JS-app.gif)
 
